@@ -4,7 +4,6 @@ Pronostico de la resistencia del concreto usando redes neuronales
 La descripción del problema está disponible en:
 https://jdvelasq.github.io/courses/notebooks/sklearn_supervised_10_neural_networks/1-02_pronostico_de_la_resistencia_del_concreto.html
 """
-
 import pandas as pd
 
 
